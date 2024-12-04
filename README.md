@@ -1,2 +1,2 @@
 # project_SNAKE
-Interesting snake game made using jss and css.
+Interesting snake game made using jss and HTML.
